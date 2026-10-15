@@ -1,0 +1,11 @@
+{
+  "id": "kanto_realism",
+  "name": "Kanto Realism",
+  "version": "0.1.0",
+  "api": 2,
+  "entry": "main.lua",
+  "category": "TOTAL_CONVERSION",
+  "games": ["red", "blue", "yellow"],
+  "priority": 50,
+  "profile": "total_conversion"
+}
